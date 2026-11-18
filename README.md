@@ -80,4 +80,4 @@ Backend Node test coverage for authentication, tickets, comments, and authorizat
 - No email, attachments, SLA, or ticket assignment
 - Support staff change status and comment; they do not edit ticket fields
 - Status moves one step forward: Open → In Progress → Resolved → Closed
-# Employee_Support_Ticket-
+# Employee_Support_Ticket
